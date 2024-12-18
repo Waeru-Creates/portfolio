@@ -1,16 +1,10 @@
 # Software Engineer | Back-End Specialist with Full-Stack Expertise
 
-## Education
-- Software Engineering | Holberton University/ ALX Africa
-- B.A., Psychology | Daystar University
+## Technical Skills: C, Python, Javascript, HTML, CSS, PostgreSQl, MySQL
 
-### Technical Skills 
-- Programing Languages: C, Python, JavaScript, HTML, CSS.
-- Framework and Tools: Django, FastApi, Reactjs, Node.js.
-- Database Management: PostgreSQL, MySQL.
-- Software Engineering: SaaS development, API integrations, and system architecture.
-- Cloud and CI/CD: AWS, Google Cloud Platform and deployment pipelines.
-- Soft Skills: Effective Communication, cross-functional collaboration, and result driven collaboration.
+### Education
+- Software Engineering | Holberton University, ALX Africa.
+- B.A., Psychology | Daystar University, Kenya.
 
 ### Relevant Experience
 Software Developer - Freelance Projects (Ongoing)
@@ -32,8 +26,9 @@ SaaS Solutions for Unnamed Companies (Freelance Dev)
 ### Professional Highlights
 - Strong expertise in backend development, complemented by hands-on experience in full-stack projects.
 - Extensive experience working on diverse school and professional projects, integrating both front-end and back-end technologies.
-- A proven track record of transforming client requirements into scalable, real-world applications with measurable results.
+- An array of Soft Skills including effective communication, cross-functional collaboration, and result driven collaboration which are more than needed in creating an amazing experience for all.
+
   
 ### Why Choose Me
-- I bring a versatile skill set and results-driven approach to every project. My expertise in backend architecture, full-stack development experience, and commitment to creating user-focused, secure, and scalable solutions make me a valuable addition to your team.
+I bring a versatile skill set and results-driven approach to every project. My expertise in backend architecture, full-stack development experience, and commitment to creating user-focused, secure, and scalable solutions make me a valuable addition to your team.
 
