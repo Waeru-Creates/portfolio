@@ -9,8 +9,9 @@ I am a dedicated software engineer with a deep focus on designing, developing, a
 - DevOps & Cloud Platforms: Google Cloud, CI/CD Pipelines.
 
 ### Education
-- Software Engineering | Holberton University, ALX Africa.
-- B.A., Psychology | Daystar University, Kenya.
+Software Engineering - Holberton University, ALX Africa.
+B.A., Psychology - Daystar University, Kenya.
+
 
 ### Relevant Experience
 Software Developer - Freelance Projects (Ongoing)
