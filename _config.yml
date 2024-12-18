@@ -1,5 +1,5 @@
 title: Waeru Creates
-logo: /assets/photo_2024-12-18_11-30-06.jpg
-description: text below image
+logo: /assets/me
+#description: text below image
 show downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
