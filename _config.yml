@@ -1,5 +1,5 @@
 title: Waeru Creates
 logo: /assets/me.jpg
 #description: text below image
-show downloads: false
+show downloads: True
 theme: jekyll-theme-hacker
