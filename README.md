@@ -1,4 +1,4 @@
-# Software Engineer | Back-End Specialist with Full-Stack Expertise
+# Software Engineer
 
 ## Technical Skills: C, Python, Javascript, HTML, CSS, PostgreSQl, MySQL
 
